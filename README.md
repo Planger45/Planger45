@@ -1,6 +1,6 @@
---- Hello Everyone !! ----
+##--- Hello Everyone !! ----
 
-## I'm Kevyn SOLA and i wnat to become a Web Developper.
+I'm Kevyn SOLA and i want to become a Web Developper.
 
 I'm actualy at school of Wild Code School (Orléans)
 
