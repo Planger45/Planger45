@@ -1,4 +1,4 @@
-##--- Hello Everyone !! ----
+##Hello Everyone !!
 
 I'm Kevyn SOLA and i want to become a Web Developper.
 
