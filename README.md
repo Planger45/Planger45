@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="Image d'ordinateur" width="150">
 </div>
 
-## Hello Everyone !!
+<h1 align="center">Hello Everyone !!</h1>
 
 I'm Kevyn SOLA and i want to become a Web Developper.
 
