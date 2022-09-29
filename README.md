@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=planger45" alt="tracker view">
 </div>
 
-<h1 align="center">Hello Everyone !!</h1>
+<h1>:vulcan_salute:Hello Everyone !!</h1>
 
 :space_invader: I'm Kevyn SOLA and i want to become a Web Developper.
 
