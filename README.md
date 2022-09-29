@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/IauL6LvGNlT3ffhcqq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/10Clouds-computer-10clouds-10c-IauL6LvGNlT3ffhcqq">via GIPHY</a></p>
+<div class="header" align="center">
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="Image d'ordinateur" width="150">
+</div>
 
 ## Hello Everyone !!
 
