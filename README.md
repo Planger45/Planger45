@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="Image d'ordinateur" width="150">
 </div>
 
+<div class="links" align="center">
+  <a href="http://https://www.linkedin.com/in/kevyn-sola" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+</div>
+
 <h1 align="center">Hello Everyone !!</h1>
 
 I'm Kevyn SOLA and i want to become a Web Developper.
