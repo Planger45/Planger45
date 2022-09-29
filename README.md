@@ -44,3 +44,12 @@ This is the first step of my new life.
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="40" height="40"/>
 </div>
+
+<h2>:fire: My Stats :</h2>
+
+<div class="links">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=planger45" alt="tracker view">
+</div>
+<div class="links">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=planger45" alt="tracker view">
+</div>
