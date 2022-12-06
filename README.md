@@ -48,8 +48,8 @@ This is the first step of my new life.
 <h2>:fire: My Stats :</h2>
 
 <div class="links">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=planger45" alt="tracker view">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevynSola" alt="tracker view">
 </div>
 <div class="links">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=planger45" alt="tracker view">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevynSola" alt="tracker view">
 </div>
