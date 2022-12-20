@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Symfony / Sass / Bootstrap
 
-- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning Symfony UX
 
 This is the first step of my new life. 
 
