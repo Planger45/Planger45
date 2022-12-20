@@ -47,5 +47,5 @@ This is the first step of my new life.
 
 <h2>:fire: My Stats :</h2>
 <div class="links">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevynSola" alt="tracker view">
+  <a href="https://github.com/KevynSola/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KevynSola&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kevyn's github stats" /></a> | <a href="https://github.com/KevynSola/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevynSola&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
