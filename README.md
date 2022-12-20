@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 This is the first step of my new life. 
 
+ - <a href="https://www.linkedin.com/in/kevyn-sola/">LinkedIn</a>
+
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
 <div>
