@@ -13,17 +13,17 @@
 
 <h1>:vulcan_salute:Hello Everyone !!</h1>
 
-:space_invader: I'm Kevyn SOLA and i want to become a Web Developper.
+:space_invader: I'm Kevyn SOLA and i'm a Web Developper.
 
-I'm actualy at school of Wild Code School (Orléans)
+I'm actualy at school of Wild Code School
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Symfony / Sass / Bootstrap
+- 🔭 I’m playing with Symfony / Sass / Bootstrap / Symfony UX
 
-- 🌱 I’m currently learning Symfony UX
+- 🌱 I’m currently learning React / Docker / NodeJs / Typescript / GraphQL
 
-This is the first step of my new life. 
+If you want to follow my career got to this link >>>
 
  - <a href="https://www.linkedin.com/in/kevyn-sola/">LinkedIn</a>
 
