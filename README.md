@@ -35,5 +35,7 @@ If you want to follow my career got to this link >>>
 
 <h2>:fire: My Stats :</h2>
 <div class="links" align="center">
-  <a href="https://github.com/KevynSola/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KevynSola&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kevyn's github stats" /></a><a href="https://github.com/KevynSola/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevynSola&layout=compact&theme=buefy&hide_border=true" /></a>
+  
+  [![KevynSola's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevynSola)](https://github.com/KevynSola/github-readme-stats)
+  
 </div>
