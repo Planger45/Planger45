@@ -37,5 +37,6 @@ If you want to follow my career got to this link >>>
 <div class="links" align="center">
   
   [![KevynSola's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevynSola)](https://github.com/KevynSola/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevynSola&layout=compact)](https://github.com/KevynSola/github-readme-stats)
   
 </div>
