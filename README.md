@@ -2,14 +2,11 @@
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" alt="Image d'ordinateur" width="150">
 </div>
 
-<div class="links" align="center">
-  <h2>! Click here !</h2>
-  <a href="https://www.linkedin.com/in/kevyn-sola/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+<div class="tracker" align="center">
+  <img src="https://komarev.com/ghpvc/?username=planger45" alt="tracker view">
 </div>
 
-<h1>:vulcan_salute:Hello Everyone !!</h1> <img src="https://komarev.com/ghpvc/?username=planger45" alt="tracker view">
+<h1>:vulcan_salute:Hello Everyone !!</h1> 
 
 :space_invader: I'm Kevyn SOLA and i'm a Web Developper.
 
@@ -23,17 +20,20 @@ Here are some ideas to get you started:
 
 If you want to follow my career got to this link >>>
 
- - <a href="https://www.linkedin.com/in/kevyn-sola/">LinkedIn</a>
+- ⚙️ Linkedin :<br>
+  <a href="https://www.linkedin.com/in/kevyn-sola/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
-<div>
+<div align="center">
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,gitlab,linux,php,webpack,vscode" />
   </a>
 </div>
 
 <h2>:fire: My Stats :</h2>
-<div class="links">
+<div class="links" align="center">
   <a href="https://github.com/KevynSola/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=KevynSola&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kevyn's github stats" /></a><a href="https://github.com/KevynSola/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevynSola&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
