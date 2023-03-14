@@ -10,10 +10,6 @@
 
 :space_invader: I'm Kevyn SOLA and i'm a Web Developper.
 
-I'm actualy at school of Wild Code School
-
-Here are some ideas to get you started:
-
 - 🔭 I’m playing with Symfony UX and :<br><br> <img src="https://skillicons.dev/icons?i=symfony,sass,bootstrap,mysql" />
 
 - 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,typescript,graphql" />
