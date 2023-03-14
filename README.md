@@ -36,7 +36,7 @@ If you want to follow my career got to this link >>>
 <h2>:fire: My Stats :</h2>
 <div class="links" align="center">
   
-  [![KevynSola's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevynSola&show_icons=true&theme=swift)](https://github.com/KevynSola/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevynSola&layout=compact&theme=swift)](https://github.com/KevynSola/github-readme-stats)
+  [![KevynSola's GitHub stats](https://github-readme-stats-kevynsola.vercel.app/api?username=KevynSola&show_icons=true&theme=swift)](https://github.com/KevynSola/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-kevynsola.vercel.app/api/top-langs/?username=KevynSola&layout=compact&theme=swift)](https://github.com/KevynSola/github-readme-stats)
   
 </div>
