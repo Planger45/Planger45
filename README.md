@@ -14,13 +14,13 @@ I'm actualy at school of Wild Code School
 
 Here are some ideas to get you started:
 
-- 🔭 I’m playing with Symfony UX and :<br> <img src="https://skillicons.dev/icons?i=symfony,sass,bootstrap,mysql" />
+- 🔭 I’m playing with Symfony UX and :<br><br> <img src="https://skillicons.dev/icons?i=symfony,sass,bootstrap,mysql" />
 
-- 🌱 I’m currently learning :<br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,typescript,graphql" />
+- 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,typescript,graphql" />
 
 If you want to follow my career got to this link >>>
 
-- ⚙️ Linkedin :<br>
+- ⚙️ Linkedin :<br><br>
   <a href="https://www.linkedin.com/in/kevyn-sola/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
