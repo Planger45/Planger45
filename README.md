@@ -32,7 +32,7 @@ If you want to follow my career got to this link >>>
 <h2>:fire: My Stats :</h2>
 <div class="links" align="center">
   
-  <img align="center" src="https://github-readme-stats-kevynsola.vercel.app/api?username=kevyn-sola&show_icons=true&theme=swift" />
-  <img align="center" src="https://github-readme-stats-kevynsola.vercel.app/api/top-langs/?username=kevyn-sola&layout=compact&theme=swift" />
+  <img align="center" src="https://github-readme-stats-1c3v.vercel.app/api?username=kevyn-sola&show_icons=true&theme=swift" />
+  <img align="center" src="https://github-readme-stats-1c3v.vercel.app/api/top-langs/?username=kevyn-sola&layout=compact&theme=swift" />
   
 </div>
