@@ -10,9 +10,9 @@
 
 :space_invader: I'm Kevyn SOLA and i'm a Web Developper.
 
-- 🔭 I’m playing with Symfony UX and :<br><br> <img src="https://skillicons.dev/icons?i=symfony,sass,bootstrap,mysql" />
+- 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,typescript,graphql,postgres" />
 
-- 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,typescript,graphql" />
+- 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=angular,firebase,androidstudio,materialui,mongodb,idea" />
 
 If you want to follow my career got to this link >>>
 
@@ -25,14 +25,14 @@ If you want to follow my career got to this link >>>
 
 <div align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,gitlab,linux,php,webpack,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,gitlab,linux,php,webpack,symfony,sass,bootstrap,mysql,vscode" />
   </a>
 </div>
 
 <h2>:fire: My Stats :</h2>
 <div class="links" align="center">
   
-  <img align="center" src="https://github-readme-stats-kevynsola.vercel.app/api?username=kevyn-sola&show_icons=true&theme=swift" />
-  <img align="center" src="https://github-readme-stats-kevynsola.vercel.app/api/top-langs/?username=kevyn-sola&layout=compact&theme=swift" />
+  <img align="center" src="https://github-readme-stats-mocha-xi.vercel.app/api?username=kevyn-sola&show_icons=true&theme=swift" />
+  <img align="center" src="https://github-readme-stats-mocha-xi.vercel.app/api/top-langs/?username=kevyn-sola&layout=compact&theme=swift" />
   
 </div>
