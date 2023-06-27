@@ -10,7 +10,7 @@
 
 :space_invader: I'm Kevyn SOLA and i'm a Web Developper.
 
-- 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,typescript,graphql,postgres" />
+- 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,express,typescript,graphql,postgres" />
 
 - 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=angular,firebase,androidstudio,materialui,mongodb,idea" />
 
