@@ -10,9 +10,11 @@
 
 :space_invader: I'm Kevyn SOLA and i'm a Web Developper.
 
-- 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,express,typescript,graphql,postgres" />
+- 🔭 I’m playing with :<br><br> <img src="https://skillicons.dev/icons?i=react,docker,nodejs,express,typescript,graphql,postgres,materialui" />
 
-- 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=angular,firebase,androidstudio,materialui,mongodb,idea" />
+- 🌱 I’m currently learning :<br><br> <img src="https://skillicons.dev/icons?i=nest" />
+
+- 🌱 I work with :<br><br> <img src="https://skillicons.dev/icons?i=php,angular,mysql,bootstrap,gitlab,linux" />
 
 If you want to follow my career got to this link >>>
 
@@ -25,7 +27,7 @@ If you want to follow my career got to this link >>>
 
 <div align="center">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,gitlab,linux,php,webpack,symfony,sass,bootstrap,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,webpack,symfony,sass,vscode,firebase" />
   </a>
 </div>
 
