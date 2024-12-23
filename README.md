@@ -25,7 +25,7 @@ If you want to follow my career got to this link >>>
 
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
-<div align="center">
+<div>
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,figma,github,webpack,symfony,sass,vscode,firebase" />
   </a>
